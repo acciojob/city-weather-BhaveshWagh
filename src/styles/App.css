@@ -1,1 +1,19 @@
-
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+input {
+  width: 20;
+  height: 30px;
+}
+button {
+  width: 100px;
+  height: 30px;
+  background-color: wheat;
+}
+.wather {
+  margin-top: 10;
+}
